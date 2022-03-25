@@ -45,7 +45,7 @@
     "word-count": "^0.2.2"
   },
   "devDependencies": {
-    "electron": "^3.0.3",
+    "electron": "^13.6.6",
     "electron-builder": "^20.28.4"
   }
 }
